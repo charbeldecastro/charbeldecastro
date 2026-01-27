@@ -1,51 +1,31 @@
-<h1 align="center">👋 Olá, eu sou o Charbel Daher!</h1>
+# Charbel Daher
 
-<p align="center">
-  Desenvolvedor Front-end | HTML, CSS, JavaScript  
-  <br/>
-  Em formação Full-stack — sempre estudando, criando e evoluindo.
-</p>
+## Cloud Computing | AWS | Provisão de Serviços em Nuvem
 
----
-
-## 🚀 Sobre mim
-
-- 💻 Desenvolvedor em formação e apaixonado por tecnologia  
-- 📚 Estudando diariamente desde fevereiro de 2025  
-- 🌐 Atualmente focado em **HTML, CSS, JavaScript, Node.js e React**  
-- 🎯 Meu objetivo: conquistar minha **migração para a área de tecnologia**  
-- 🧠 Sempre buscando construir projetos práticos e consistentes  
+Profissional em transição para Cloud Computing, com foco em provisão de serviços computacionais utilizando AWS.
+Atualmente em capacitação pelo programa Capacita iRede, com estudos complementares pela DIO.
 
 ---
 
-## 🛠️ Tecnologias que utilizo e estudo
+### Sobre
+- Profissional em transição técnica para Cloud Computing
+- Capacitação em AWS (fundamentos, serviços e boas práticas)
+- Base em desenvolvimento web (HTML, CSS, JavaScript e Git)
+- Interesse em infraestrutura, operação e suporte em nuvem
 
-<div style="display: inline_block"><br>
+---
 
-  <!-- Base da Web -->
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+### Cloud (em foco)
+- AWS
+- Cloud Computing
+- Infraestrutura em Nuvem
+- IaaS | PaaS | SaaS
 
-  <!-- Front-end -->
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <!-- Back-end -->
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-  <!-- Ferramentas -->
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img 
-  align="center" 
-  alt="GitHub" 
-  height="40" 
-  width="40" 
-  src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"
-/>
-  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-</div>
+### Base técnica
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
 
 ---
 
@@ -54,9 +34,7 @@
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charbel-daher-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charbeldecastro@gmail.com)
 
 </div>
 
----
-
-## ✨ “Disciplina e constância constroem resultados reais.”
