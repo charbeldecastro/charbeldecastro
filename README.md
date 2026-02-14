@@ -1,6 +1,6 @@
 # Charbel Daher
 
-## Cloud Computing | AWS | Infraestrutura em Nuvem 
+## Cloud Computing | AWS | Infraestrutura em Nuvem
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -13,40 +13,42 @@
 ![SaaS](https://img.shields.io/badge/SaaS-1F3B73?style=flat)
 
 ![Fundamentos%20de%20Redes](https://img.shields.io/badge/Fundamentos%20de%20Redes-1F3B73?style=flat)
-![Segurança%20em%20Nuvem](https://img.shields.io/badge/Seguran%C3%A7a%20em%20Nuvem-1F3B73?style=flat)
+![Seguran%C3%A7a%20em%20Nuvem](https://img.shields.io/badge/Seguran%C3%A7a%20em%20Nuvem-1F3B73?style=flat)
 ![Infraestrutura%20como%20Servi%C3%A7o](https://img.shields.io/badge/Infraestrutura%20como%20Servi%C3%A7o-1F3B73?style=flat)
 
-Profissional em transição para Cloud Computing, com foco em provisão de serviços computacionais utilizando AWS.
-Atualmente em capacitação pelo programa Capacita iRede, com estudos complementares pela DIO.
+---
+
+## Sobre
+
+Graduando em Computação em Nuvem pela Cruzeiro do Sul Virtual e participante do programa Capacita iRede (AWS), com foco em provisionamento e operação de ambientes Cloud.
+
+Estudo aplicado de serviços AWS (EC2, S3, IAM, VPC), além de fundamentos de redes, virtualização e arquitetura em nuvem.
+
+Base em desenvolvimento web (HTML, CSS, JavaScript e Git), contribuindo para a integração entre aplicações e infraestrutura.
 
 ---
 
-### Sobre
-Profissional em transição para Cloud Computing, com foco em provisão e gestão de serviços em nuvem utilizando AWS. Atualmente em capacitação técnica pelo programa Capacita iRede, com estudos complementares em arquitetura, redes e virtualização.
+## Cloud
 
-Graduando em Computação em Nuvem pela Cruzeiro do Sul Virtual, com formação complementar em inglês voltado para tecnologia.
-
-Interesse em arquitetura, redes, virtualização e operação de ambientes Cloud.
-
----
-
-### Cloud
-- AWS (EC2, S3, IAM, VPC)
-- IaaS | PaaS | SaaS
-- Fundamentos de Redes e Segurança
-- Infraestrutura como Serviço
-
-### Base técnica
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
+- AWS: EC2, S3, IAM, VPC  
+- Modelos de Serviço: IaaS | PaaS | SaaS  
+- Redes e Segurança em Nuvem  
+- Provisionamento de Infraestrutura  
 
 ---
 
-### Objetivo
+## Base Técnica
 
-Atuar com Cloud Computing, contribuindo em ambientes AWS com foco em infraestrutura, operação e suporte.
+- HTML  
+- CSS  
+- JavaScript  
+- Git e GitHub  
+
+---
+
+## Objetivo
+
+Atuar em Cloud Computing com foco em infraestrutura, operação e boas práticas em ambientes AWS.
 
 ---
 
